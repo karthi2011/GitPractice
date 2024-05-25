@@ -1,4 +1,5 @@
 a=10
 c=40
 b=38
-print(a+b+c)
+d=55
+print(a+b+c-d)
